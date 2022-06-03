@@ -38,5 +38,18 @@ the chatroom.
 - User account is created to limit the access and ensure security
 after the query issue is rectified.
 - Simple and easy-to-understand
-- 
--
+- Have a very beginner-friendly interface
+- Workplace accuracy, easy and quick recollection of knowledge
+- Simple to update and delete data
+
+
+# Some of the screen snippets:-
+
+![Loading icon](https://github.com/Mansi021/Chat-Mail-Service-Console-Based-Project/blob/main/images/loading.png)
+![Main Menu](https://github.com/Mansi021/Chat-Mail-Service-Console-Based-Project/blob/main/images/main_menu.png)
+![Registeration page](https://github.com/Mansi021/Chat-Mail-Service-Console-Based-Project/blob/main/images/register_page.png)
+![Log-In Page](https://github.com/Mansi021/Chat-Mail-Service-Console-Based-Project/blob/main/images/login.png)
+![Logging-In](https://github.com/Mansi021/Chat-Mail-Service-Console-Based-Project/blob/main/images/loggingIn.png)
+![User Log-In Portal](https://github.com/Mansi021/Chat-Mail-Service-Console-Based-Project/blob/main/images/userPortal.png)
+![Send messages option](https://github.com/Mansi021/Chat-Mail-Service-Console-Based-Project/blob/main/images/send_message.png)
+![Show messaged option](https://github.com/Mansi021/Chat-Mail-Service-Console-Based-Project/blob/main/images/show_messages.png)
